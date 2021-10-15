@@ -95,7 +95,7 @@ export const constantRoutes = [
         path: 'plumber',
         component: () => import('@/views/plumber/index'),
         name: 'plumber',
-        meta: { title: 'plumber', icon: 'plumber', affix: true }
+        meta: { title: 'Plumber', icon: 'plumber', affix: true }
       }
     ]
   },
